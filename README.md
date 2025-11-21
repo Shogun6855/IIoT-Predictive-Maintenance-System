@@ -84,7 +84,7 @@ An **Industrial IoT (IIoT) predictive maintenance system** that simulates factor
 
 1. **Clone or download this project**
    ```bash
-   cd IOT
+   cd IIoT-Predictive-Maintenance-System
    ```
 
 2. **Install dependencies**
